@@ -1,2 +1,2 @@
-# SPOJ_problems
-Solutions to some SPOJ (http://www.spoj.com/) problems in C++11
+# Competitive_Programming_solutions
+Solutions to some Competitive Programming exercises from SPOJ (http://www.spoj.com/) and UVA (https://uva.onlinejudge.org/) in C++11
